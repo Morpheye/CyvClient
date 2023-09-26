@@ -4,6 +4,9 @@ This client performs slightly better than Forge, thus serving as an alternative 
 
 This client is currently in closed beta, a public release will come soon.
 
+**Discord Invite**
+https://discord.gg/a9qQZdVGZx
+
 ### Installation
 1. Download the Zip File corresponding to the version you wish to use.
 2. Take the folder inside (should be named **CyvClient**) and place it inside your **/.minecraft/versions** folder.
